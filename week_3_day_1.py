@@ -276,9 +276,15 @@ print (sqrt (num1))
 
 ##########################################################################################
 # # mad libs game
+color = input("enter a color:")
+plural_noun = input("enter a plural noun:")
+celebrity = input ("enter a celebrity:")
 # print("Roses are {color}")
+print (f"Roses are{color}")
 # print("{plural noun} are blue")
+print (f"{plural_noun} are blue")
 # print("I love {celebrity}")
+print (f"I love {celebrity}")
 # # On to codehs.com
 
 
